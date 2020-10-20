@@ -12,7 +12,7 @@
 ### Metode instalasi / pembaruan (versi h2 dan ws telah digabungkan)
 Vmess+websocket+TLS+Nginx+Website
 ```
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/gugun09/V2Ray_ws-tls_bash_onekey/master/install.sh" && chmod +x install.sh && bash install.sh
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/Gugun09/V2Ray_ws-tls_bash_onekey/main/install.sh" && chmod +x install.sh && bash install.sh
 ```
 
 ### Tindakan pencegahan
