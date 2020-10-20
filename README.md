@@ -10,10 +10,13 @@ Siap bekerja
 Siapkan nama domain dan tambahkan rekam A.
 Petunjuk resmi V2ray , pahami informasi terkait TLS WebSocket dan V2ray
 Instal wget
-Metode instalasi / pembaruan (versi h2 dan ws telah digabungkan)
+#Metode instalasi / pembaruan (versi h2 dan ws telah digabungkan)
 Vmess + websocket + TLS + Nginx + Situs Web
 
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh" && chmod +x install.sh && bash install.sh
+  ```html
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/gugun09/V2Ray_ws-tls_bash_onekey/master/install.sh" && chmod +x install.sh && bash install.sh
+  ```
+  
 Tindakan pencegahan
 Jika Anda tidak memahami arti spesifik dari setiap pengaturan dalam skrip, kecuali untuk nama domain, gunakan nilai default yang disediakan oleh skrip
 Untuk menggunakan skrip ini, Anda harus memiliki dasar dan pengalaman Linux, memahami beberapa pengetahuan tentang jaringan komputer, dan pengoperasian komputer dasar
