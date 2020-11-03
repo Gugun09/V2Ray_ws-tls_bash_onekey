@@ -63,7 +63,7 @@ old_config_status="off"
 random_num=$((RANDOM%12+4))
 #生成伪装路径
 #camouflage="/$(head -n 10 /dev/urandom | md5sum | head -c ${random_num})/"
-camouflage="/queenss/"
+camouflage="/queenssh/"
 
 THREAD=$(grep 'processor' /proc/cpuinfo | sort -u | wc -l)
 
